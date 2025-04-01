@@ -22,8 +22,6 @@ Trabajo Práctico N°4 - **_SCM – Herramientas de SCM_**
 | Molina Castillo, Lautaro | **94658** | <lautaro.molina.7330@gmail.com> |
 | Ceballos, Matias| **71660** | <maticeba98@gmail.com> | 
 | Andermatten, Alexis Ariel | **70287** | <alexisaandermatten@gmail.com> |
-| Surghy, Nicolás |  |  |
-
 
 
 Fecha de entrega: 01/04/2025
